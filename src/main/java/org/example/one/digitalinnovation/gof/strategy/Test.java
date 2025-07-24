@@ -19,6 +19,5 @@ public class Test {
         robo.mover();
         robo.mover();
 
-
     }
 }
